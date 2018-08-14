@@ -1,7 +1,7 @@
 # Priyank Vaghela - Personal Website
 # https://priyankvaghela.github.io
 
-<img src="/assets/icons/og-image.jpg">
+<img src="https://priyankvaghela.github.io/assets/icons/og-image.jpg">
 
 # Features
 - Loads under 3 secs
